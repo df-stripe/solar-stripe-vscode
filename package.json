@@ -1,0 +1,22 @@
+{
+    "name": "solar-stripe",
+    "displayName": "solar-stripe",
+    "description": "Solarized Dark, Stripe-style",
+    "version": "0.0.1",
+    "publisher": "df",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SolarStripe",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SolarStripe-color-theme.json"
+            }
+        ]
+    }
+}
