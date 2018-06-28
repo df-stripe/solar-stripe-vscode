@@ -19,5 +19,9 @@
             }
         ]
     },
-    "icon": "https://github.com/df-stripe/solar-stripe-vscode/raw/42fa3f8/s.png"
+    "icon": "https://github.com/df-stripe/solar-stripe-vscode/raw/42fa3f8/s.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/df-stripe/solar-stripe-vscode.git"
+    }
 }
