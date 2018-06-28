@@ -18,5 +18,6 @@
                 "path": "./themes/SolarStripe-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "https://github.com/df-stripe/solar-stripe-vscode/raw/42fa3f8/s.png"
 }
